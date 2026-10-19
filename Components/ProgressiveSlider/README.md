@@ -27,9 +27,6 @@ Or in `Package.swift`:
 ])
 ```
 
-The repo is private for now. If it stays private, Xcode needs your GitHub account
-signed in under **Settings › Accounts** to fetch it.
-
 ## Describe the scale
 
 A scale is a lower bound plus segments, each with an upper bound and a step:

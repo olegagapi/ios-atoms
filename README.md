@@ -30,8 +30,6 @@ separate product, so your app only links what it imports.
 ```
 
 In Xcode: **File › Add Package Dependencies…**, paste the URL, choose the libraries.
-While the repo is private, Xcode needs your GitHub account signed in under
-**Settings › Accounts**.
 
 ## Layout
 
